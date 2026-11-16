@@ -1,0 +1,1 @@
+SELECCIONA PRIMEROS 10 nombre, edad, color DE "gatos adoptados" DONDE (edad ESTA ENTRE 1 Y 3) Y color CONTIENE gris O nombre EMPIEZA CON "L" ORDENADO POR "edad" DESC;
